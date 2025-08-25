@@ -1,0 +1,8 @@
+body{
+    background-color: lab(11.82% 2.4 0.88);
+}
+
+.nav a {
+    padding-left:10px;
+    background-color: brown;
+}
